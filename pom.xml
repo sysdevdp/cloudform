@@ -32,7 +32,7 @@
         <!-- AWS SDK v2 Core (needed for RequestBody, credentials, etc.) -->
         <dependency>
             <groupId>software.amazon.awssdk</groupId>
-            <artifactId>core</artifactId>
+            <artifactId>sdk-core</artifactId>
             <version>2.20.60</version>
         </dependency>
 
